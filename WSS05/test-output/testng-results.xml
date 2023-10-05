@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64146" started-at="2023-10-01T19:31:52Z" finished-at="2023-10-01T19:32:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64146" started-at="2023-10-01T19:31:52Z" finished-at="2023-10-01T19:32:56Z">
+      <class name="readData.Login">
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="7636" started-at="2023-10-01T20:31:52Z" data-provider="data" finished-at="2023-10-01T20:32:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@15dd5ac2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="6192" started-at="2023-10-01T20:32:00Z" data-provider="data" finished-at="2023-10-01T20:32:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4d48bd85]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="5582" started-at="2023-10-01T20:32:06Z" data-provider="data" finished-at="2023-10-01T20:32:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7bbbb6a8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="6364" started-at="2023-10-01T20:32:12Z" data-provider="data" finished-at="2023-10-01T20:32:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@58a120b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="6600" started-at="2023-10-01T20:32:18Z" data-provider="data" finished-at="2023-10-01T20:32:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@27d57a2c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="6391" started-at="2023-10-01T20:32:25Z" data-provider="data" finished-at="2023-10-01T20:32:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2ff95fc6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="6595" started-at="2023-10-01T20:32:31Z" data-provider="data" finished-at="2023-10-01T20:32:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@9d1a267]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="6945" started-at="2023-10-01T20:32:38Z" data-provider="data" finished-at="2023-10-01T20:32:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@58a4a74d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="5242" started-at="2023-10-01T20:32:45Z" data-provider="data" finished-at="2023-10-01T20:32:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@54aca26f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+        <test-method status="PASS" signature="loginWithCred([Ljava.lang.String;)[pri:0, instance:readData.Login@4b9e13df]" name="loginWithCred" duration-ms="6009" started-at="2023-10-01T20:32:50Z" data-provider="data" finished-at="2023-10-01T20:32:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@314ed053]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCred -->
+      </class> <!-- readData.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
